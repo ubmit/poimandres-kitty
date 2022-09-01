@@ -17,11 +17,13 @@ hide_window_decorations yes
 
 ## Related
 
+- [poimandres-theme][poimandres-theme]: Original VSCode theme
 - [poimandres-alacritty][poimandres-alacritty]: Alacritty version
 - [poimandres-iterm][poimandres-iterm]: Iterm version
 - [poimandres-wezterm][poimandres-wezterm]: Wezterm version
 - [poimandres.nvim][poimandres.nvim]: Neovim version written in Lua
 
+[poimandres-theme]: https://github.com/drcmda/poimandres-theme
 [poimandres-alacritty]: https://github.com/z0al/poimandres-alacritty
 [poimandres-iterm]: https://github.com/alii/poimandres-iterm
 [poimandres-wezterm]: https://github.com/olivercederborg/poimandres-wezterm
